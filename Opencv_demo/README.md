@@ -1,7 +1,7 @@
 如果执行程序
 $ bash start.bash
 
-status放回-16则使用sudo运行
+status返回-16则使用sudo运行
 若不想使用sudo 则查看88-rule是否执行，可以通过修改 /etc/udev/udev.conf 为debug
 $ journalctl -xeu systemd-udevd
 查看是否成功
