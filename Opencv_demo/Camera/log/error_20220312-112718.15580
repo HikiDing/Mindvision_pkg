@@ -1,0 +1,4 @@
+Log file created at: 2022/03/12 11:27:18
+Running on machine: hikiqaq
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0312 11:27:18.395339 15580 MVCAMAPI.cpp:350] CameraInit Failed, err:-18,Version:2.1.0.31,FriendlyName:zheng,SN:041051420643
